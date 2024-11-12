@@ -1,3 +1,4 @@
+package lab2;
 public class User {
     private String userId;
     private String password;

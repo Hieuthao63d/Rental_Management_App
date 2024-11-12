@@ -1,3 +1,4 @@
+package lab2;
 public class Property {
     private String propertyId;
     private String description;
